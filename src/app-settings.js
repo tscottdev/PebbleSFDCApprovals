@@ -3,7 +3,7 @@
  */
 var appSettings = {
     // URL to the page hosting the Apps Config Screen
-    configURL: 'https://dl.dropboxusercontent.com/u/119963/PebbleApps/SFDCApprovals/config-page.html',
+    configURL: 'https://dl.dropboxusercontent.com/u/XXXXXX/PebbleApps/SFDCApprovals/config-page.html',
 
     // The Client Id and Secret of your Connected App
     clientId: 'XXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXX',
