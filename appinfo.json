@@ -1,0 +1,86 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "@tscottdev",
+    "longName": "SFDC Approvals",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/reject128x128.png",
+                "name": "IMAGES_REJECT128X128_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/approve128x128.png",
+                "name": "IMAGES_APPROVE128X128_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/downarrow16x11.png",
+                "name": "IMAGES_DOWNARROW16X11_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/uparrow16x11.png",
+                "name": "IMAGES_UPARROW16X11_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/reject16x16.png",
+                "name": "IMAGES_REJECT16X16_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/approve16x16.png",
+                "name": "IMAGES_APPROVE16X16_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/rightarrow12x16.png",
+                "name": "IMAGES_RIGHTARROW12X16_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/reload16x16.png",
+                "name": "IMAGES_RELOAD16X16_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/checkbox28x28.png",
+                "menuIcon": true,
+                "name": "IMAGES_CHECKBOX28X28_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "SFDC Approvals",
+    "uuid": "0050898e-63ef-4d6f-86b3-26cbe95ccd06",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
